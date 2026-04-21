@@ -1,0 +1,18 @@
+Subject: Welcome to Your Bank
+
+From: Your Bank Support <support@yourbank.com>
+To: john@example.com
+
+Dear John,
+
+Welcome to Your Bank!
+
+Your account has been successfully created.
+
+You can now access your account using our official website:
+https://www.yourbank.com
+
+If you have any questions, feel free to contact our support team.
+
+Best regards,  
+Your Bank Support Team

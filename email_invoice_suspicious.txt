@@ -1,0 +1,19 @@
+Subject: Invoice Attached – Payment Required
+
+From: Billing Department <billing@company-payments.com>
+To: employee@company.com
+
+Hello,
+
+Please find attached invoice for your recent transaction.
+
+The payment is due immediately to avoid service interruption.
+
+Kindly review the attached document and complete payment at the earliest.
+
+Attachment: invoice_2026.zip
+
+If you have already made the payment, please ignore this message.
+
+Regards,  
+Billing Department
